@@ -27,13 +27,13 @@ Fast forward to 2001, when software development needed a more flexible approach.
 List and briefly explain the phases of the Software Development Life Cycle.
 Software doesn’t just happen; it follows a structured process known as the Software Development Life Cycle (SDLC). Here’s a breakdown:
 
-Planning – What are we building? Why? What resources do we need?
-Requirements Gathering – Understanding what the software should do.
-Design – Creating blueprints, both visual (UI/UX) and architectural.
-Implementation (Coding) – Writing the actual code.
-Testing – Ensuring the software is bug-free and works as expected.
-Deployment – Releasing the software for real users.
-Maintenance – Fixing bugs and improving features over time.
+1.Planning – What are we building? Why? What resources do we need?
+2.Requirements Gathering – Understanding what the software should do.
+3.Design – Creating blueprints, both visual (UI/UX) and architectural.
+4.Implementation (Coding) – Writing the actual code.
+5.Testing – Ensuring the software is bug-free and works as expected.
+6.Deployment – Releasing the software for real users.
+7.Maintenance – Fixing bugs and improving features over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
